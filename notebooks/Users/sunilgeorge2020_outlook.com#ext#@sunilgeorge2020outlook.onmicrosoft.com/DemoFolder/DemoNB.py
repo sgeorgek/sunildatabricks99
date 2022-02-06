@@ -4,3 +4,8 @@ print(i)
 
 # COMMAND ----------
 
+name = 'Sunil'
+print(name)
+
+# COMMAND ----------
+
